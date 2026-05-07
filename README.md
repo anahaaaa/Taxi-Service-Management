@@ -4,8 +4,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Course%20Project-blueviolet?style=for-the-badge)
 
 > A relational database-backed taxi booking system that manages users, taxis, trips, and billing end-to-end.
 
